@@ -1,7 +1,7 @@
 # imc4-r2-MB
-#####################################################
-########## Writing an Algorithm in Python  ##########
-#####################################################
+
+########## PRIMARY SECTION 1: Writing an Algorithm in Python  ##########
+
 
 The explanation below assumes familiarity with the basics of Object-Oriented Programming in Python. To refresh this knowledge you can have a look at the source provided on the ‣.
 
@@ -640,9 +640,9 @@ All the standard python libraries included in Python 3.12 are fully supported, i
 
 [Round 1 - “Trading groundwork” d4e4b7f3146d83869f7c0117d7f7ca4f.md](https://github.com/user-attachments/files/26864263/Round.1.-.Trading.groundwork.d4e4b7f3146d83869f7c0117d7f7ca4f.md)
 
-######################################################
-##########  Round 1 - “Trading groundwork”  ##########
-######################################################
+
+##########  PRIMARY SECTION 2: Round 1 - “Trading groundwork”  ##########
+
 
 You have reached Intara.
 
@@ -697,9 +697,9 @@ Choose a bid price and quantity for each product to maximize your profit. Enter 
 
 [Round 2 - “Growing Your Outpost” .md](https://github.com/user-attachments/files/26864283/Round.2.-.Growing.Your.Outpost.md)
 
-########################################################
-##########  Round 2 - “Growing Your Outpost”  ##########
-########################################################
+
+##########  PRIMARY SECTION 3: Round 2 - “Growing Your Outpost”  ##########
+
 
 It is the second trading round, and your final opportunity to reach the threshold goal of a net PnL of 200,000 XIRECs or more before the leaderboard resets for Phase 2. These first 2 rounds act as qualifiers for the final mission. Trading activity has accelerated significantly since your arrival. With you and the other outposts actively trading ***Ash-Coated Osmium*** and ***Intarian Pepper Root***, the market has become increasingly competitive and dynamic.
 
