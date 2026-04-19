@@ -30,7 +30,7 @@ class Trader:
 
     # --- PEPPER: ride the +1000/day drift ---
     PEPPER_STOP_BUYING_AT = 999_400   # ts after which we stop accumulating
-    
+    PEPPER_LIQUIDATE_AT = 1_999_400   # ts at/after which we unwind
 
     def bid(self):
         """Round 2 Market Access Fee — blind auction, top 50% gets +25% flow.
