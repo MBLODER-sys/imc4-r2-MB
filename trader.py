@@ -29,8 +29,8 @@ class Trader:
     OSMIUM_PASSIVE_MIN_SPREAD = 6  # only quote inside when spread this wide
 
     # --- PEPPER: ride the +1000/day drift ---
-    PEPPER_STOP_BUYING_AT = 750_000   # ts after which we stop accumulating
-    PEPPER_LIQUIDATE_AT = 999_400    # ts at/after which we unwind
+    PEPPER_STOP_BUYING_AT = 999_400   # ts after which we stop accumulating
+    
 
     def bid(self):
         """Round 2 Market Access Fee — blind auction, top 50% gets +25% flow.
